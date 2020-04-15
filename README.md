@@ -9,6 +9,8 @@ HelloWorld
 
 test py
 
-python
+python >> print("Hello World")
+
+
 
 
