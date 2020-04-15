@@ -1,7 +1,8 @@
 # HelloGit
 test
 
-> gcc -o helloc hello.c \n
-> ./helloc
+gcc -o helloc hello.c
+
+./helloc
 
 HelloWorld
